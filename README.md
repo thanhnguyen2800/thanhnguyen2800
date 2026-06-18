@@ -1,5 +1,5 @@
 # About Me :
-A girl is learning to code 
+💻 Just a tech girl ✨
 
 ## Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/users/1194093464892231753) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nguy%C3%AAn-nguy%E1%BB%85n-8292b8358/) 
